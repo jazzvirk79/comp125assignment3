@@ -1,0 +1,25 @@
+{
+  "name": "Assignment_3",
+  "homepage": "https://github.com/Rutvik17/COMP125-Assignment3",
+  "authors": [
+    "Rutvik Patel <patelrutvik1702@gmail.com>"
+  ],
+  "description": "To add data from .json file",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "jquery": "^3.1.0",
+    "Ajax": "*",
+    "jquery-ui": "jqueryui#^1.12.0"
+  }
+}

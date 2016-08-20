@@ -1,0 +1,35 @@
+{
+"paragraphs":[
+    {
+    "id":"home_para",
+    "content": "Welcome to my profile."
+    },
+    {
+        "id":"project_para",
+        "content":" Here are a few projects that I have created in my previous semester."
+    },{
+        "id":"project_para1",
+        "content":"Project# 1: Ferrari Spider 388"
+    },{
+        "id":"project_para2" ,
+        "content":"Project# 2: Energy Conservation"
+    },{
+        "id":"project_para3",
+        "content":"Project# 3: Real Estate"
+    },
+    { 
+        "id":"about_para",
+        "content":"Hi I am Jagdeep Virk, a student of Software Engineering Technician at Centennial College."
+    },{
+        "id":"about_para1",
+        "content":"I love to take pictures from my phone '#loveinstagram'."
+    },{
+        "id":"about_para2",
+        "content":"Watching movies,listening songs,cartooning and dancing are some of my favorite hobbies."
+    },{
+        "id":"contact_para",
+        "content":"Contact Me"
+    } 
+    
+]
+}

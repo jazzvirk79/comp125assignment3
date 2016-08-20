@@ -1,0 +1,32 @@
+{
+  "name": "Ajax",
+  "description": "A tiny XMLHTTPRequest abstraction.",
+  "main": "Ajax.min.js",
+  "authors": [
+    "Renie Siqueira <renie.webdev@gmail.com>"
+  ],
+  "keywords": [
+    "ajax",
+    "request",
+    "javascript",
+    "get",
+    "post"
+  ],
+  "ignore": [
+    "index.html",
+    "test.json",
+    "testCommon.js"
+  ],
+  "license": "GPL3",
+  "homepage": "https://github.com/renie/Ajax",
+  "_release": "8696499266",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "86964992668184c29b95375ba66e9047e33bab83"
+  },
+  "_source": "https://github.com/renie/Ajax.git",
+  "_target": "*",
+  "_originalSource": "Ajax",
+  "_direct": true
+}

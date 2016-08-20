@@ -1,0 +1,34 @@
+body{
+    background-image: url(../Assests/background.jpg);
+    background-repeat: repeat-x;
+    font-family: sans-serif;
+    text-align: center;
+        background-size: 100vh auto;
+}
+#contactForm
+{
+    align-content: centre;
+    text-align: left;
+}
+
+.container{
+	font-weight: bold;
+	margin-top: 70px;
+
+}
+
+.row
+{
+    opacity:0.9;
+}
+.copyright
+{
+    font-weight: bold;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+#canvas{
+    border: 1px black solid;
+    border-radius: 5px;
+}
